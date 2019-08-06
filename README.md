@@ -99,7 +99,7 @@ $ python train_step4.py --decay_rate 0.5 --options_dir regression --batch_size 5
 $ python evaluate.py --load_finetune_epoch 100 --load_reg_epoch 40 --img_path ./sample_dataset/2flowers/jpg/1/image_1281.jpg
 ```
 
-![](https://github.com/bigbrother33/Deep-Learning/blob/master/photo/1.PNG)
+![](https://github.com/cassiePython/RCNN/blob/master/Figure_1.png)
 
 ## References
 
